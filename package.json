@@ -17,7 +17,6 @@
     "nids": "git+ssh://git@github.com:itsatony/nIds.git",
     "node-uuid": "1.4.3",
     "nrmq": "git+ssh://git@github.com:itsatony/nrmq.git",
-    "once": "1.3.3",
     "q": "1.4.1",
     "restler": "3.4.0"
   },
