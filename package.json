@@ -1,27 +1,55 @@
 {
-  "name": "nminions",
+  "_from": "nminions@^0.6.2",
+  "_id": "nminions@0.6.2",
+  "_inBundle": false,
+  "_integrity": "sha512-5i8amkLXguvcjyjr40qI4rw59colQdLSBV+lf30rengNTpH5Pwy1ELGJ41Ql1OCOJ9NJgDZSqjXhxxQSvm46Pw==",
+  "_location": "/nminions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "nminions@^0.6.2",
+    "name": "nminions",
+    "escapedName": "nminions",
+    "rawSpec": "^0.6.2",
+    "saveSpec": null,
+    "fetchSpec": "^0.6.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nminions/-/nminions-0.6.2.tgz",
+  "_shasum": "baede2475f34952bd4fe6a5cefa5612ef9677f33",
+  "_spec": "nminions@^0.6.2",
+  "_where": "/home/itsatony/code/djinn",
+  "author": {
+    "name": "Toni Wagner",
+    "email": "i@itsatony.com"
+  },
+  "bugs": {
+    "url": "https://github.com/itsatony/nminions/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bunyan": "latest",
+    "bunyan-format": "latest",
+    "json-stringify-safe": "latest",
+    "minimist": "1.2.0",
+    "uuid": "latest"
+  },
+  "deprecated": false,
   "description": "base-framework for n-micro-services",
-  "version": "0.3.0",
-  "author": "Toni Wagner <i@itsatony.com>",
-  "engine": "node >= 0.10",
+  "devDependencies": {
+    "mocha": "5.0.1",
+    "should": "13.2.1"
+  },
+  "engine": "node >= 8.7",
+  "homepage": "https://github.com/itsatony/nminions#readme",
+  "main": "lib/nminions",
+  "name": "nminions",
   "repository": {
     "type": "git",
     "url": "git://github.com/itsatony/nminions.git"
   },
-  "main": "lib/nminions",
-  "dependencies": {
-    "bunyan": "1.5.1",
-    "bunyan-format": "0.2.1",
-    "json-stringify-safe": "latest",
-    "minimist": "1.1.3",
-    "nids": "git+ssh://git@github.com:itsatony/nIds.git",
-    "node-uuid": "1.4.3",
-    "nrmq": "git+ssh://git@github.com:itsatony/nrmq.git",
-    "q": "1.4.1",
-    "restler": "3.4.0"
-  },
-  "devDependencies": {
-    "mocha": "1.13.0",
-    "should": "2.0.1"
-  }
+  "version": "0.6.2"
 }
