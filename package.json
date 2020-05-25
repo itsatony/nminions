@@ -34,7 +34,7 @@
     "bunyan": "latest",
     "bunyan-format": "latest",
     "json-stringify-safe": "latest",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "uuid": "latest"
   },
   "deprecated": false,
