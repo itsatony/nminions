@@ -1,6 +1,6 @@
 {
-  "_from": "nminions@^0.6.2",
-  "_id": "nminions@0.6.2",
+  "_from": "nminions@^0.6.3",
+  "_id": "nminions@0.6.3",
   "_inBundle": false,
   "_integrity": "sha512-5i8amkLXguvcjyjr40qI4rw59colQdLSBV+lf30rengNTpH5Pwy1ELGJ41Ql1OCOJ9NJgDZSqjXhxxQSvm46Pw==",
   "_location": "/nminions",
@@ -8,19 +8,19 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "nminions@^0.6.2",
+    "raw": "nminions@^0.6.3",
     "name": "nminions",
     "escapedName": "nminions",
-    "rawSpec": "^0.6.2",
+    "rawSpec": "^0.6.3",
     "saveSpec": null,
-    "fetchSpec": "^0.6.2"
+    "fetchSpec": "^0.6.3"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nminions/-/nminions-0.6.2.tgz",
+  "_resolved": "https://registry.npmjs.org/nminions/-/nminions-0.6.3.tgz",
   "_shasum": "baede2475f34952bd4fe6a5cefa5612ef9677f33",
-  "_spec": "nminions@^0.6.2",
+  "_spec": "nminions@^0.6.3",
   "_where": "/home/itsatony/code/djinn",
   "author": {
     "name": "Toni Wagner",
@@ -51,5 +51,5 @@
     "type": "git",
     "url": "git://github.com/itsatony/nminions.git"
   },
-  "version": "0.6.2"
+  "version": "0.6.3"
 }
